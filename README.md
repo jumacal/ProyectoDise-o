@@ -8,7 +8,7 @@ En este repositorio se encuentran todos los archivos correspondientes al proyect
 El la carpeta "Proyecto de diseño.zip" se encuentran todos los archivos correspondientes que se dividen en:
 
 - APLICACIÓN
-  -  Video de funcionalidad
+  -  Video de funcionalidad encontrado en el drive: https://drive.google.com/file/d/1tx_3zzn5ig8lxwAPlkgk4Gh3glU0XgJF/view?usp=sharing
   -  Codigo de la aplicacion
   -  APK para instalar aplicación
   -  Archivo de emulación de datos ESP32
